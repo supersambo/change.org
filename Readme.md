@@ -1,16 +1,16 @@
 ## An R Wrapper for the change.org API
-This package provides an interface to the Application Programming Interface of change.org. Its meant to be used for research purposes, thus it only includes data gathering requests.
+This package provides an interface to the Application Programming Interface of [*change.org*](http://change.org). Its meant to be used for research purposes, thus it only includes data gathering requests.
 
 #### Installation
 
-You can install the **change.org** package from GitHub using devtools as follows:
+You can install the **change.org** package from GitHub using the [devtools package](https://cran.r-project.org/web/packages/devtools/index.html) as follows:
 
 ```r
 library(devtools)
 devtools::install_github("supersambo/change.org")
 ```
 
-
+The API requires a valid api_key which can be requested [here](https://www.change.org/developers/api-key).
 
     Copyright (C) 2015  Stephan Schlögl
 
