@@ -3,6 +3,6 @@ Title: A wrapper for the change.org API
 Version: 0.0.0.9000
 Authors@R: person("Setphan", "Schloegl", email = "stephan@schloegl.net", role = c("aut", "cre"))
 Description: This package provides an interface to the change.org API. It's meant to be used for research mainly and thus focuses on data retrieval methods 
-Depends: R (>= 3.2.1),rjson, RCurl, plyr
+Depends: R (>= 3.0.0),rjson, RCurl, plyr
 License: GPL-2
 LazyData: true
