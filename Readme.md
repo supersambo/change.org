@@ -1,3 +1,5 @@
+**Note that package not longer maintained. **
+
 ## An R Wrapper for the change.org API
 This package provides an interface to the Application Programming Interface of [*change.org*](http://change.org). Its meant to be used for research purposes, thus it only includes data gathering requests.
 
